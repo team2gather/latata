@@ -44,3 +44,4 @@ This will replace the development artifact `build/Index.js` for an optimized ver
 
 As a good starting point for future reason-react webpack-based front-end projects, checkout this branch:
 
+- https://github.com/team2gather/latata/tree/boilerplate
